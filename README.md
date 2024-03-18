@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Check out my personal project, PiRover
+or check out my current code for the 2024 First Robotics Crescendo game
+
 <!--
 **WeasalCrafter/WeasalCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
