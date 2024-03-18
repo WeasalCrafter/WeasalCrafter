@@ -4,7 +4,7 @@ Check out my personal project I've been working on, the [PiRover](https://github
 
 or check out my [code](https://github.com/WeasalCrafter/FRC545) for the First Robotics 2024 Competition
 
-see my [website](https://loganfick.com/) for more of my projects and links!
+and see my [website](https://loganfick.com/) for more of my projects and links!
 <!--
 **WeasalCrafter/WeasalCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
