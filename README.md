@@ -1,12 +1,18 @@
-### Hi there 👋
+### Hi there
 
-Check out my personal project, PiRover
-or check out my current code for the 2024 First Robotics Crescendo game
+Check out my personal project I've been working on, PiRover
+
+or check out my code for the First Robotics 2024 Competition
+
 
 <!--
 **WeasalCrafter/WeasalCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+Check out my personal project, PiRover
+or check out my current code for the 2024 First Robotics Crescendo game
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
