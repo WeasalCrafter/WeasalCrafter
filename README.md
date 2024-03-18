@@ -1,6 +1,6 @@
 ### Hi there
 
-Check out my personal project I've been working on, the PiRover
+Check out my personal project I've been working on, the [PiRover](https://github.com/WeasalCrafter/PiRover)
 
 or check out my code for the First Robotics 2024 Competition
 
