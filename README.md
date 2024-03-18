@@ -1,4 +1,4 @@
-### Hi there
+#### Hi there 👋
 
 Check out my personal project I've been working on, the [PiRover](https://github.com/WeasalCrafter/PiRover)
 
