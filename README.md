@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-Check out my personal project I've been working on, the [PiRover](https://github.com/WeasalCrafter/PiRover)
+Check out the project im currently working on, a DRV8304-based [BLDC Driver](https://github.com/WeasalCrafter/drv8304-bldc)
 
-or check out my [code](https://github.com/WeasalCrafter/FRC545) for the First Robotics 2024 Competition
-
-and see my [website](https://loganfick.com/) for more of my projects and links!
+or see my [website](https://loganfick.com/) for more of my projects and links!
 <!--
 **WeasalCrafter/WeasalCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
