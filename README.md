@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check out the project im currently working on, a DRV8304-based [BLDC Driver](https://github.com/WeasalCrafter/drv8304-bldc)
+Check out my latest project [LinkLite v2](https://github.com/WeasalCrafter/linklite-v2)
 
 or see my [website](https://loganfick.com/) for more of my projects and links!
 <!--
