@@ -1,23 +1,9 @@
 ## Hi there 👋
 
-Check out my latest project [LinkLite v2](https://github.com/WeasalCrafter/linklite-v2)
+My name is Logan Fick, and I'm an Electrical Engineering Undergraduate at Boston University.
 
-or see my [website](https://loganfick.com/) for more of my projects and links!
-<!--
-**WeasalCrafter/WeasalCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm very passionate about PCB design and Microcontroller projects, check out my pinned repositories for my best projects!
 
-Here are some ideas to get you started:
+Check out my latest project, [LinkLite v2](https://github.com/WeasalCrafter/linklite-v2), a modular room light that I use in my college dorm.
 
-
-Check out my personal project, PiRover
-or check out my current code for the 2024 First Robotics Crescendo game
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Or check out my [website](https://loganfick.com/) for more of my projects and links!
